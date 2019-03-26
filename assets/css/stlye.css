@@ -1,0 +1,84 @@
+body {
+    background-image: url(../images/light-grey-terrazzo.png);
+    
+}
+
+h1 {
+    background-color: lightblue;
+    font-size: 40px;
+    width: 700px;
+    margin: 20px;
+    padding: 7px;
+}
+ul{
+    background-color: #faebd7;
+    width: 700px;
+    font-size: 20px;
+    margin: 20px;
+    padding: 7px;
+}
+
+#target-score{
+    background-color: blueviolet;
+    font-size: 60px;
+    width: 400px;
+    margin: 20px;
+    padding: 7px;
+  }
+
+  #wins-tracker, #losses-tracker {
+    background-color: cornflowerblue;
+    font-size: 20px;
+    width: 400px;
+    margin-left: 20px;
+    padding: 7px;   
+  }
+#red {
+    background-image: url(../images/redgem.PNG);
+    height: 240px;
+    width: 224px;
+    float: left;
+    margin: 20px;
+}
+
+#blue {
+    background-image: url(../images/bluegem.PNG);
+    height: 240px;
+    width: 224px;
+    float: left;
+    margin: 20px;
+}
+
+#yellow {
+    background-image: url(../images/yellowgem.PNG);
+    height: 240px;
+    width: 224px;
+    float: left;
+    margin: 20px;
+}
+
+#green {
+    background-image: url(../images/greengem.PNG);
+    height: 240px;
+    width: 224px;
+    float: left;
+    margin: 20px;
+}
+
+h2 {
+    float: none;
+    background-color: teal;
+    width: 200px;
+    margin: 20px;
+    font-size: 30px;
+    padding: 7px;
+}
+
+#playerScore {
+    float: none;
+    background-color: teal;
+    width: 200px;
+    margin: 20px;
+    font-size: 90px;
+    padding: 7px;
+}
